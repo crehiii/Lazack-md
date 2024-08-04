@@ -1,8 +1,4 @@
 
-
-
-
-
 </p>
 </p>
 <p align="center">
@@ -35,18 +31,29 @@
 </p>
 
 ---
-***Scan QR Code***
 
-1. ***Get [SESSION-ID](https://gpt-qr-code.onrender.com/elisa) by pairing code. `Whatapp>Three dots>Linked Devices****
+ ***Fork Repo***
+ ***[FORK](https://github.com/Lazack28/Lazack-md/fork)***
 
-    UPLOAD THE CREEDS.JS FILE YOU GET TO THE AUTHENTICATORS FILE ON THE REPO... THEN DEPLOY WITHOUT FILLING SESSION ID IN APP.JSON
+    FORK FIRST THE REPO
+---
+
+***GET YOURE SESSION ID BY***
+
+1. ***[QR CODE](https://gpt-qr-code.onrender.com/elisa)***
+
+2. ***[PARING CODE](https://creds-1.onrender.com/pair)***
+
+
+     `UPLOAD THE CREEDS.JS FILE YOU GET TO THE AUTHENTICATORS FILE ON THE REPO... THEN DEPLOY WITHOUT FILLING SESSION ID IN APP.JSON`
+   
+
+
+
+    
 
    
 --- 
- ***Fork Repo***
-2. ***Click [FORK](https://github.com/Lazack28/Lazack-md/fork)***
- 
----
 
 JOIN THE GROUP FOR SUPPORT 
 [GROUP](https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9)
